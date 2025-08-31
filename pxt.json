@@ -1,0 +1,11 @@
+{
+  "name": "mypotions",
+  "displayName": "My Potions",
+  "description": "Custom potion mechanics for MakeCode Arcade",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "main.ts"
+  ]
+}
