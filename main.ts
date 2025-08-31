@@ -1,12 +1,7 @@
-//% color="#AA278D" weight=100
-namespace hello {
-    //% block
-    export function helloWorld() {
-
-    }
-
-    //% block
-    export function camlCaseTwo() {
-
+//% block="My Potions" color="#AA00FF" weight=100 icon="\uf0c3"
+namespace myPotions {
+    //% block="give potion"
+    export function givePotion() {
+        game.splash("You got a potion!")
     }
 }
