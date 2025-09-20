@@ -1,6 +1,6 @@
 {
   "name": "tileAnimations",
-  "displayname": "TileAnimations"
+  "displayName": "TileAnimations"
   "description": "Custom potion mechanics for MakeCode Arcade",
   "dependencies": {
     "device": "*"
