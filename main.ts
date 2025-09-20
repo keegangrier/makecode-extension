@@ -10,7 +10,7 @@ enum TileAnimationOrder {
 
 }
 
-namespace scene {
+namespace TileAnimations {
 
 
     class animatedTile {
